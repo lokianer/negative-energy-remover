@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Negative Energie Entferner"
+  },
+  "extensionDescription": {
+    "message": "Entfernt negative Energie durch Abwendung von exotischer Materie und Abwehr von Strahlungsquellen."
+  },
+  "title": {
+    "message": "Negative Energie Entferner"
+  },
+  "exoticMatterDeflected": {
+    "message": "Exotische Materie abgewendet"
+  },
+  "radiationSourcesShielded": {
+    "message": "Strahlungsquellen abgewehrt"
+  }
+}

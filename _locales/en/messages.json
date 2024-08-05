@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Negative Energy Remover"
+  },
+  "extensionDescription": {
+    "message": "Removes negative energy by deflecting exotic matter and shielding against radiation sources."
+  },
+  "title": {
+    "message": "Negative Energy Remover"
+  },
+  "exoticMatterDeflected": {
+    "message": "Exotic Matter Deflected"
+  },
+  "radiationSourcesShielded": {
+    "message": "Radiation Sources Shielded"
+  }
+}
