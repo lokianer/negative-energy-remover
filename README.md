@@ -22,3 +22,5 @@ This tool is perfect for those looking to add a bit of fun and positivity to the
 
 **Changelog:**
 v1.0: Initial release with localization support for English and German.
+
+Buy me a [Kofi](https://ko-fi.com/lokianer)
